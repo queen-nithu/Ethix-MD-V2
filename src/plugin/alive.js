@@ -82,8 +82,8 @@ _________________________________________
               forwardingScore: 999,
               isForwarded: true,
               forwardedNewsletterMessageInfo: {
-                newsletterJid: '120363249960769123@newsletter',
-                newsletterName: "Ethix-MD",
+                newsletterJid: '120363313717856084@newsletter',
+                newsletterName: "ʝσιɳ ɳσɯ",
                 serverMessageId: 143
               }
             }
